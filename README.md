@@ -1,6 +1,19 @@
-## 👋  Hey there, I am Sumedh Durvasula!
-I'm passionate about the fascinating worlds of Software Engineering and Machine Learning 🤖. \
-Currently pursuing my studies in Computer Science at Georgia Institute of Technology 🏛️.
+# 👋 Hey there, I am Sumedh Durvasula!
+
+## 🎯 **Passion**
+Software Engineering & Machine Learning 🤖✨
+
+## 🎓 **Education** 
+**Georgia Institute of Technology** 🐝🏛️
+- Bachelor's in Computer Science
+- Master's in Computer Science (ML Focus)
+
+## 💼 **Experience**
+- **Meta** - Software Engineer 🔵👨‍💻 *(Current)*
+- **Amazon** - SDE Intern 📦💻 *(Previous)*
+
+## 🚀 **Focus**
+Building innovative solutions at the intersection of code and AI
 
 ## 🛠  Technologies and tools
 
